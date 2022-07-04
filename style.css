@@ -1,0 +1,14 @@
+main {
+    background-color: rgb(43, 41, 41);
+    color: white;
+    margin: 0;
+    border-radius: 2rem;
+}
+
+article {
+    padding: 2em
+}
+
+.card-body {
+    background-color: cadetblue;
+}
