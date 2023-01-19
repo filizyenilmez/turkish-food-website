@@ -12,3 +12,26 @@ article {
 .card-body {
     background-color: cadetblue;
 }
+
+h1 {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(82, 218, 225);
+}
+
+.row img {
+    height: 18em;
+}
+
+.card {
+    margin-bottom: 5px;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(68, 181, 157)
+}
+
+a:hover {
+    color: white;
+}
