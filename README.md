@@ -1,1 +1,1 @@
-![Project foot](./turksihfoot.png)
+![Project foot](./turksihFoot.png)
